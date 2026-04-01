@@ -101,7 +101,7 @@ export default function Layout({ children }: { children: ReactNode }) {
           <div className="flex flex-col md:flex-row items-center gap-6 md:gap-12 text-sm uppercase tracking-widest opacity-70">
             <a href="mailto:irina@selection-agency.ru" className="hover:opacity-100 transition-opacity">irina@selection-agency.ru</a>
             <a href="tel:+79152485802" className="hover:opacity-100 transition-opacity">+7 915 248 5802</a>
-            <a href="t.me/ira_troyanova" className="hover:opacity-100 transition-opacity">Telegram</a>
+            <a href="https://t.me/ira_troyanova" className="hover:opacity-100 transition-opacity">Telegram</a>
           </div>
         </div>
         <div className="text-center text-xs opacity-30 mt-12 tracking-wider">
